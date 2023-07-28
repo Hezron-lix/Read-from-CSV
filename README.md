@@ -32,6 +32,8 @@ print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
 
 ## OUTPUT:
+![ou](/w.png)
+![ou](/f.jpg)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
