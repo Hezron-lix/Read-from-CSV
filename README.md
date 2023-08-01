@@ -20,8 +20,8 @@ Step 5:
 Print the output.   
 
 ## PROGRAM:
-#To write a python program for reading content from a CSV file.
-#eveloped by: Hezron Belix
+```#To write a python program for reading content from a CSV file.
+#Developed by: Hezron Belix
 #Register Number: 23009905
 
 import pandas as pd
@@ -30,9 +30,9 @@ print(df.head(10))
 print(df.tail())
 print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
+```
 
 ## OUTPUT:
-![ou](/w.png)
 ![ou](/f.jpg)
 
 ## RESULT:
