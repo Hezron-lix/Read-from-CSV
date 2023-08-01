@@ -21,7 +21,7 @@ Print the output.
 
 ## PROGRAM:
 #To write a python program for reading content from a CSV file.
-#eveloped by: Hezron Belix
+#Developed by: Hezron Belix
 #Register Number: 23009905
 
 import pandas as pd
